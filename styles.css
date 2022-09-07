@@ -23,32 +23,33 @@ footer {
   font-family: sans-serif;
 }
 
-.w {
-
+.w:hover {
+  background-image: url(images/tom1.png);
 }
 
-.a {
-
+.a:hover {
+  background-image: url(images/tom2.png);
 }
 
-.s {
-
+.s:hover {
+  background-image: url(images/tom3.png);
 }
 
-.d {
-
+.d:hover {
+  background-image: url(images/tom4.png);
 }
 
-.j {
-
+.j:hover {
+  background-image: url(images/snare.png);
 }
 
-.k {
-
+.k:hover {
+  background-image: url(images/crash.png);
 }
 
-.l {
-
+.l:hover {
+  background-image: url(images/kick.png);
+  
 }
 
 .set {
@@ -87,8 +88,3 @@ footer {
   background-color: white;
 }
 
-.drum:hover {
-  background:#f3b8d1;
-  transition: 2s;
-  cursor: pointer;
-}
